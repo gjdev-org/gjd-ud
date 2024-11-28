@@ -1,11 +1,11 @@
-title: This is the site title
-description: This is the site description.
+title: Ufficio digitale Gabriel Jones
+description: Qui c'è tutto il mio mondo!
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
-  organization: 18F
-  repository: uswds-jekyll
+  organization: gjdev
+  repository: gjd-ud
   default_branch: main
 
 # Configuration for setting the site width to 100%
